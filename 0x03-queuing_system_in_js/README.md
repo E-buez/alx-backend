@@ -1002,10 +1002,11 @@ In a second terminal:
 <!---->
 
 # :man: Author and Credits.
-This project was done by [SE. Moses Mwangi](https://github.com/MosesSoftEng). Feel free to get intouch with me;
+This project was done by [Ehujuo Chibueze](https://github.com/E-buez/). 
 
-:iphone: WhatsApp [+254115227963](https://wa.me/254115227963)
+Feel free to get intouch with me on;
+WhatsApp [+2348135120093]
 
-:email: Email [moses.soft.eng@gmail.com](mailto:moses.soft.eng@gmail.com)
+Email: [ehujuochibueze@gmail.com](silliconvalli@gmail.com)
 
 :thumbsup: A lot of thanks to [ALX-Africa Software Engineering](https://www.alxafrica.com/) program for the project requirements.
